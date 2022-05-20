@@ -20,6 +20,23 @@ dbt Concepts:
 
 ## Prerequisites
 
+### Install Required Packages
+
+Install Homebrew
+
+Run the following commands in terminal
+1. `brew update`
+2. `brew install git`
+3. `brew tap dbt-labs/dbt`
+4. `brew install --cask google-cloud-sdk`
+5. 
+```sh
+gcloud auth application-default login \
+  --scopes=https://www.googleapis.com/auth/bigquery,\
+https://www.googleapis.com/auth/drive.readonly,\
+https://www.googleapis.com/auth/iam.test
+```
+
 ### Create your profiles.yml
 ```yml
 company: #this needs to match your profile in your project.yml
