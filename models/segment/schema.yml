@@ -1,0 +1,12 @@
+version: 2
+
+models: 
+  - name: segment_users
+    description: Users as defined by Segment
+    config:
+      alias: users
+    columns:
+      - name: anonymous_id
+        tests:
+          - unique
+          - not_null

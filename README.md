@@ -41,7 +41,7 @@ https://www.googleapis.com/auth/iam.test
 
 ### Create your profiles.yml
 ```yml
-company: #this needs to match your profile in your project.yml
+bigtimedata: #this needs to match your profile in your project.yml
   target: dev
   outputs:
     dev:

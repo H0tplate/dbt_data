@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: segment
+    schema: segment
+
+    tables: 
+      - name: users

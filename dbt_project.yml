@@ -2,12 +2,12 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'company_analytics'
+name: 'bigtimedata_analytics'
 version: '2.0.0'
 config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
-profile: 'company'
+profile: 'bigtimedata'
 
 vars:
     'dbt_date:time_zone': 'UTC'
@@ -36,9 +36,9 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 
 models:
-  company_analytics:
-      core_company:
-        +schema: core_company
+  bigtimedata_analytics:
+      core_bigtimedata:
+        +schema: core_bigtimedata
         +materialized: table
         tags: ["hourly"]
       utils:
@@ -49,6 +49,6 @@ seeds:
   schema: staging
   quote_columns: False
 
-  company_analytics:
+  bigtimedata_analytics:
     utils:
       schema: utils
