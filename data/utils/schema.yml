@@ -1,0 +1,34 @@
+version: 2
+
+seeds:
+  - name: dim_country
+    description: ""
+    columns:
+      - name: country_code_iso_2
+        description: "2 char country code"
+        tests:
+          - unique
+          - not_null
+      - name: country_code_iso_3
+        description: "3 char country code"
+        tests:
+          - unique
+          - not_null
+      - name: country_default_name
+        description: "country name. for additional names for countries see country_mapping_name_to_iso_code"
+      - name: currency_code
+        description: "3 char primary currency code"
+      - name: continent_code_iso_2
+        description: "2 char continent code"
+        tests:
+          - not_null
+      - name: continent_name
+        description: "continent name"
+      - name: region
+        description: "political region in the world"
+      - name: sub_region
+        description: "political sub-region in the world"
+      - name: independant_status
+        description: "indicates country's independance status"
+      - name: parent_country_code
+        description: "another country responsible for country"

@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: schema_alias
+    schema: schema_name
+
+    tables: 
+      - name: table_name
+        description: description
+        columns:
+        - name: column_name
+          tests:
+            - unique
+      - name: table_name_2
+        description: description
+        tests:
+          - dbt_utils.unique_combination_of_columns:
+              combination_of_columns:
+                - column_name_1
+                - column_name_2

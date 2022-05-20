@@ -1,0 +1,17 @@
+version: 2
+
+models: 
+  - name: dbt_model
+    description: description
+    columns:
+      - name: column_name
+        tests:
+          - unique
+          - not_null
+  - name: dbt_model_2
+    description: description
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - column_name_1
+            - column_name_2
