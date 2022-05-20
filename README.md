@@ -30,8 +30,9 @@ Run the following commands in terminal
 1. `brew update`
 2. `brew install git`
 3. `brew tap dbt-labs/dbt`
-4. `brew install --cask google-cloud-sdk`
-5. 
+4. `brew install dbt-bigquery`
+5. `brew install --cask google-cloud-sdk`
+6. 
 ```sh
 gcloud auth application-default login \
   --scopes=https://www.googleapis.com/auth/bigquery,\
@@ -71,9 +72,15 @@ Now you can run dbt locally
 ```sh
 dbt --version
 ```
+
+Install your dbt dependencies
+```sh
+dbt deps
+```
+
 You can now run all the [dbt CLI commands](https://docs.getdbt.com/reference/dbt-commands)
 
-Try a dbt run in the container
+Try a dbt run
 ```sh
 dbt run --models dim_date
 ```
