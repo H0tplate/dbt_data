@@ -24,6 +24,8 @@ dbt Concepts:
 
 Install Homebrew
 
+Run `mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew`
+
 Run the following commands in terminal
 1. `brew update`
 2. `brew install git`
