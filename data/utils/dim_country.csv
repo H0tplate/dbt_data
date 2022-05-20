@@ -1,0 +1,250 @@
+COUNTRY_CODE_ISO_2,COUNTRY_CODE_ISO_3,COUNTRY_DEFAULT_NAME,CURRENCY_CODE,CONTINENT_CODE_ISO_2,CONTINENT_NAME,REGION,SUB_REGION,INDEPENDANT_STATUS,PARENT_COUNTRY_CODE
+BQ,BES,"Bonaire, Saint Eustatius and Saba",USD,NA,North America,NA,Latin America and the Caribbean,Part of NL,NL
+BA,BIH,Bosnia and Herzegovina,BAM,EU,Europe,EMEA,Southern Europe,Yes,BA
+BW,BWA,Botswana,BWP,AF,Africa,EMEA,Sub-Saharan Africa,Yes,BW
+BV,BVT,Bouvet Island,NOK,AQ,Antarctica,Other,Latin America and the Caribbean,Territory of NO,NO
+BR,BRA,Brazil,BRL,SA,South America,LATAM,Latin America and the Caribbean,Yes,BR
+IO,IOT,British Indian Ocean Territory,USD,AS,Asia,APAC,Sub-Saharan Africa,Territory of GB,GB
+BN,BRN,Brunei Darussalam,BND,AS,Asia,APAC,South-eastern Asia,Yes,BN
+BG,BGR,Bulgaria,BGN,EU,Europe,EMEA,Eastern Europe,Yes,BG
+BF,BFA,Burkina Faso,XOF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,BF
+BI,BDI,Burundi,BIF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,BI
+KH,KHM,Cambodia,KHR,AS,Asia,APAC,South-eastern Asia,Yes,KH
+CM,CMR,Cameroon,XAF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,CM
+CA,CAN,Canada,CAD,NA,North America,NA,Northern America,Yes,CA
+CV,CPV,Cape Verde,CVE,AF,Africa,EMEA,Sub-Saharan Africa,Yes,CV
+KY,CYM,Cayman Islands,KYD,NA,North America,NA,Latin America and the Caribbean,Territory of GB,GB
+CF,CAF,Central African Republic,XAF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,CF
+TD,TCD,Chad,XAF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,TD
+AF,AFG,Afghanistan,AFN,AS,Asia,APAC,Southern Asia,Yes,AF
+AX,ALA,Aland Islands,FIM,EU,Europe,EMEA,Northern Europe,Part of FI,FI
+AL,ALB,Albania,ALL,EU,Europe,EMEA,Southern Europe,Yes,AL
+DZ,DZA,Algeria,DZD,AF,Africa,EMEA,Northern Africa,Yes,DZ
+AS,ASM,American Samoa,USD,OC,Australia (Oceania),APAC,Polynesia,Territory of US,US
+AD,AND,Andorra,EUR,EU,Europe,EMEA,Southern Europe,Yes,AD
+AO,AGO,Angola,AOA,AF,Africa,EMEA,Sub-Saharan Africa,Yes,AO
+AI,AIA,Anguilla,XCD,NA,North America,NA,Latin America and the Caribbean,Territory of GB,GB
+AQ,ATA,Antarctica,AUD,AQ,Antarctica,Other,,International,Other
+AG,ATG,Antigua and Barbuda,XCD,NA,North America,NA,Latin America and the Caribbean,Yes,AG
+AR,ARG,Argentina,ARS,SA,South America,LATAM,Latin America and the Caribbean,Yes,AR
+AM,ARM,Armenia,AMD,AS,Asia,APAC,Western Asia,Yes,AM
+AW,ABW,Aruba,AWG,NA,North America,NA,Latin America and the Caribbean,Part of NL,NL
+AU,AUS,Australia,AUD,OC,Australia (Oceania),APAC,Australia and New Zealand,Yes,AU
+AT,AUT,Austria,EUR,EU,Europe,EMEA,Western Europe,Yes,AT
+AZ,AZE,Azerbaijan,AZN,AS,Asia,EMEA,Western Asia,Yes,AZ
+BS,BHS,Bahamas,BSD,NA,North America,NA,Latin America and the Caribbean,Yes,BS
+BH,BHR,Bahrain,BHD,AS,Asia,EMEA,Western Asia,Yes,BH
+BD,BGD,Bangladesh,BDT,AS,Asia,APAC,Southern Asia,Yes,BD
+BB,BRB,Barbados,BBD,NA,North America,NA,Latin America and the Caribbean,Yes,BB
+BY,BLR,Belarus,BYR,EU,Europe,EMEA,Eastern Europe,Yes,BY
+BE,BEL,Belgium,EUR,EU,Europe,EMEA,Western Europe,Yes,BE
+BZ,BLZ,Belize,BZD,NA,North America,NA,Latin America and the Caribbean,Yes,BZ
+BJ,BEN,Benin,XOF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,BJ
+BM,BMU,Bermuda,BMD,NA,North America,NA,Northern America,Territory of GB,GB
+BT,BTN,Bhutan,BTN,AS,Asia,APAC,Southern Asia,Yes,BT
+BO,BOL,Bolivia,BOB,SA,South America,LATAM,Latin America and the Caribbean,Yes,BO
+CL,CHL,Chile,CLP,SA,South America,LATAM,Latin America and the Caribbean,Yes,CL
+CN,CHN,China,CNY,AS,Asia,APAC,Eastern Asia,Yes,CN
+CX,CXR,Christmas Island,AUD,AS,Asia,APAC,Australia and New Zealand,Territory of AU,AU
+CC,CCK,Cocos (Keeling) Islands,AUD,AS,Asia,APAC,Australia and New Zealand,Territory of AU,AU
+CO,COL,Colombia,COP,SA,South America,LATAM,Latin America and the Caribbean,Yes,CO
+KM,COM,Comoros,KMF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,KM
+CG,COG,Congo,XAF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,CG
+CD,COD,"Congo, The Democratic Republic of the",CDF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,CD
+CK,COK,Cook Islands,NZD,OC,Australia (Oceania),APAC,Polynesia,Associated with NZ,NZ
+CR,CRI,Costa Rica,CRC,NA,North America,LATAM,Latin America and the Caribbean,Yes,CR
+CI,CIV,Cote d'Ivoire,XOF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,CI
+HR,HRV,Croatia,HRK,EU,Europe,EMEA,Southern Europe,Yes,HR
+CU,CUB,Cuba,CUP,NA,North America,LATAM,Latin America and the Caribbean,Yes,CU
+CW,CUW,Curacao,ANG,NA,North America,NA,Latin America and the Caribbean,Part of NL,NL
+CY,CYP,Cyprus,EUR,EU,Europe,EMEA,Western Asia,Yes,CY
+CZ,CZE,Czech Republic,CZK,EU,Europe,EMEA,Eastern Europe,Yes,CZ
+DK,DNK,Denmark,DKK,EU,Europe,EMEA,Northern Europe,Yes,DK
+DJ,DJI,Djibouti,DJF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,DJ
+DM,DMA,Dominica,XCD,NA,North America,NA,Latin America and the Caribbean,Yes,DM
+DO,DOM,Dominican Republic,DOP,NA,North America,LATAM,Latin America and the Caribbean,Yes,DO
+EC,ECU,Ecuador,USD,SA,South America,LATAM,Latin America and the Caribbean,Yes,EC
+EG,EGY,Egypt,EGP,AF,Africa,EMEA,Northern Africa,Yes,EG
+SV,SLV,El Salvador,SVC,NA,North America,LATAM,Latin America and the Caribbean,Yes,SV
+GQ,GNQ,Equatorial Guinea,XAF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,GQ
+ER,ERI,Eritrea,ETB,AF,Africa,EMEA,Sub-Saharan Africa,Yes,ER
+EE,EST,Estonia,EUR,EU,Europe,EMEA,Northern Europe,Yes,EE
+ET,ETH,Ethiopia,ETB,AF,Africa,EMEA,Sub-Saharan Africa,Yes,ET
+FK,FLK,Falkland Islands (Malvinas),FKP,SA,South America,LATAM,Latin America and the Caribbean,Territory of GB,GB
+FO,FRO,Faroe Islands,DKK,EU,Europe,EMEA,Northern Europe,Part of DK,DK
+FJ,FJI,Fiji,FJD,OC,Australia (Oceania),APAC,Melanesia,Yes,FJ
+FI,FIN,Finland,EUR,EU,Europe,EMEA,Northern Europe,Yes,FI
+FR,FRA,France,EUR,EU,Europe,EMEA,Western Europe,Yes,FR
+GF,GUF,French Guiana,EUR,SA,South America,LATAM,Latin America and the Caribbean,Part of FR,FR
+PF,PYF,French Polynesia,XPF,OC,Australia (Oceania),APAC,Polynesia,Territory of FR,FR
+TF,ATF,French Southern Territories,EUR,AQ,Antarctica,Other,Sub-Saharan Africa,Territory of FR,FR
+GA,GAB,Gabon,XAF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,GA
+GM,GMB,Gambia,GMD,AF,Africa,EMEA,Sub-Saharan Africa,Yes,GM
+GE,GEO,Georgia,GEL,AS,Asia,EMEA,Western Asia,Yes,GE
+DE,DEU,Germany,EUR,EU,Europe,EMEA,Western Europe,Yes,DE
+GH,GHA,Ghana,GHS,AF,Africa,EMEA,Sub-Saharan Africa,Yes,GH
+GI,GIB,Gibraltar,GIP,EU,Europe,EMEA,Southern Europe,Territory of GB,GB
+GR,GRC,Greece,EUR,EU,Europe,EMEA,Southern Europe,Yes,GR
+GL,GRL,Greenland,DKK,NA,North America,NA,Northern America,Part of DK,DK
+GD,GRD,Grenada,XCD,NA,North America,NA,Latin America and the Caribbean,Yes,GD
+GP,GLP,Guadeloupe,EUR,NA,North America,NA,Latin America and the Caribbean,Part of FR,FR
+GU,GUM,Guam,USD,OC,Australia (Oceania),APAC,Micronesia,Territory of US,US
+GT,GTM,Guatemala,GTQ,NA,North America,LATAM,Latin America and the Caribbean,Yes,GT
+GG,GGY,Guernsey,GGP,EU,Europe,EMEA,Northern Europe,Crown dependency of GB,GB
+GN,GIN,Guinea,GNF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,GN
+GW,GNB,Guinea-Bissau,XOF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,GW
+GY,GUY,Guyana,GYD,SA,South America,LATAM,Latin America and the Caribbean,Yes,GY
+HT,HTI,Haiti,HTG,NA,North America,LATAM,Latin America and the Caribbean,Yes,HT
+HM,HMD,Heard Island and McDonald Islands,AUD,OC,Australia (Oceania),APAC,Australia and New Zealand,Territory of AU,AU
+VA,VAT,Holy See (Vatican City State),EUR,EU,Europe,EMEA,Southern Europe,Yes,VA
+HN,HND,Honduras,HNL,NA,North America,LATAM,Latin America and the Caribbean,Yes,HN
+HK,HKG,Hong Kong,HKD,AS,Asia,APAC,Eastern Asia,Part of CN,CN
+HU,HUN,Hungary,HUF,EU,Europe,EMEA,Eastern Europe,Yes,HU
+IS,ISL,Iceland,ISK,EU,Europe,EMEA,Northern Europe,Yes,IS
+IN,IND,India,INR,AS,Asia,APAC,Southern Asia,Yes,IN
+ID,IDN,Indonesia,IDR,AS,Asia,APAC,South-eastern Asia,Yes,ID
+IR,IRN,"Iran, Islamic Republic of",IRR,AS,Asia,APAC,Southern Asia,Yes,IR
+IQ,IRQ,Iraq,IQD,AS,Asia,EMEA,Western Asia,Yes,IQ
+IE,IRL,Ireland,EUR,EU,Europe,EMEA,Northern Europe,Yes,IE
+IM,IMN,Isle of Man,IMP,EU,Europe,EMEA,Northern Europe,Crown dependency of GB,GB
+IL,ISR,Israel,ILS,AS,Asia,EMEA,Western Asia,Yes,IL
+IT,ITA,Italy,EUR,EU,Europe,EMEA,Southern Europe,Yes,IT
+JM,JAM,Jamaica,JMD,NA,North America,NA,Latin America and the Caribbean,Yes,JM
+JP,JPN,Japan,JPY,AS,Asia,APAC,Eastern Asia,Yes,JP
+JE,JEY,Jersey,JEP,EU,Europe,EMEA,Northern Europe,Crown dependency of GB,GB
+JO,JOR,Jordan,JOD,AS,Asia,EMEA,Western Asia,Yes,JO
+KZ,KAZ,Kazakhstan,KZT,AS,Asia,EMEA,Central Asia,Yes,KZ
+KE,KEN,Kenya,KES,AF,Africa,EMEA,Sub-Saharan Africa,Yes,KE
+KI,KIR,Kiribati,AUD,OC,Australia (Oceania),APAC,Micronesia,Yes,KI
+KP,PRK,"Korea, Democratic People's Republic of",KPW,AS,Asia,APAC,Eastern Asia,Yes,KP
+KR,KOR,"Korea, Republic of",KRW,AS,Asia,APAC,Eastern Asia,Yes,KR
+KW,KWT,Kuwait,KWD,AS,Asia,EMEA,Western Asia,Yes,KW
+KG,KGZ,Kyrgyzstan,KGS,AS,Asia,APAC,Central Asia,Yes,KG
+LA,LAO,Lao People's Democratic Republic,LAK,AS,Asia,APAC,South-eastern Asia,Yes,LA
+LV,LVA,Latvia,EUR,EU,Europe,EMEA,Northern Europe,Yes,LV
+LB,LBN,Lebanon,LBP,AS,Asia,EMEA,Western Asia,Yes,LB
+LS,LSO,Lesotho,LSL,AF,Africa,EMEA,Sub-Saharan Africa,Yes,LS
+LR,LBR,Liberia,LRD,AF,Africa,EMEA,Sub-Saharan Africa,Yes,LR
+LY,LBY,Libyan Arab Jamahiriya,LYD,AF,Africa,EMEA,Northern Africa,Yes,LY
+LI,LIE,Liechtenstein,CHF,EU,Europe,EMEA,Western Europe,Yes,LI
+LT,LTU,Lithuania,EUR,EU,Europe,EMEA,Northern Europe,Yes,LT
+LU,LUX,Luxembourg,EUR,EU,Europe,EMEA,Western Europe,Yes,LU
+MO,MAC,Macao,MOP,AS,Asia,APAC,Eastern Asia,Part of CN,CN
+MK,MKD,Macedonia,MKD,EU,Europe,EMEA,Southern Europe,Yes,MK
+MG,MDG,Madagascar,MGA,AF,Africa,EMEA,Sub-Saharan Africa,Yes,MG
+MW,MWI,Malawi,MWK,AF,Africa,EMEA,Sub-Saharan Africa,Yes,MW
+MY,MYS,Malaysia,MYR,AS,Asia,APAC,South-eastern Asia,Yes,MY
+MV,MDV,Maldives,MVR,AS,Asia,APAC,Southern Asia,Yes,MV
+ML,MLI,Mali,XOF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,ML
+MT,MLT,Malta,EUR,EU,Europe,EMEA,Southern Europe,Yes,MT
+MH,MHL,Marshall Islands,USD,OC,Australia (Oceania),APAC,Micronesia,Yes,MH
+MQ,MTQ,Martinique,EUR,NA,North America,NA,Latin America and the Caribbean,Part of FR,FR
+MR,MRT,Mauritania,MRO,AF,Africa,EMEA,Sub-Saharan Africa,Yes,MR
+MU,MUS,Mauritius,MUR,AF,Africa,EMEA,Sub-Saharan Africa,Yes,MU
+YT,MYT,Mayotte,EUR,AF,Africa,EMEA,Sub-Saharan Africa,Part of FR,FR
+MX,MEX,Mexico,MXN,NA,North America,LATAM,Latin America and the Caribbean,Yes,MX
+FM,FSM,"Micronesia, Federated States of",USD,OC,Australia (Oceania),APAC,Micronesia,Yes,FM
+MD,MDA,"Moldova, Republic of",MDL,EU,Europe,EMEA,Eastern Europe,Yes,MD
+MC,MCO,Monaco,EUR,EU,Europe,EMEA,Western Europe,Yes,MC
+MN,MNG,Mongolia,MNT,AS,Asia,APAC,Eastern Asia,Yes,MN
+ME,MNE,Montenegro,EUR,EU,Europe,EMEA,Southern Europe,Yes,ME
+MS,MSR,Montserrat,XCD,NA,North America,NA,Latin America and the Caribbean,Territory of GB,GB
+MA,MAR,Morocco,MAD,AF,Africa,EMEA,Northern Africa,Yes,MA
+MZ,MOZ,Mozambique,MZN,AF,Africa,EMEA,Sub-Saharan Africa,Yes,MZ
+MM,MMR,Myanmar,MMK,AS,Asia,APAC,South-eastern Asia,Yes,MM
+NA,NAM,Namibia,NAD,AF,Africa,EMEA,Sub-Saharan Africa,Yes,NA
+NR,NRU,Nauru,AUD,OC,Australia (Oceania),APAC,Micronesia,Yes,NR
+NP,NPL,Nepal,NPR,AS,Asia,APAC,Southern Asia,Yes,NP
+NL,NLD,Netherlands,EUR,EU,Europe,EMEA,Western Europe,Yes,NL
+NC,NCL,New Caledonia,XPF,OC,Australia (Oceania),APAC,Melanesia,Territory of FR,FR
+NZ,NZL,New Zealand,NZD,OC,Australia (Oceania),APAC,Australia and New Zealand,Yes,NZ
+NI,NIC,Nicaragua,NIO,NA,North America,LATAM,Latin America and the Caribbean,Yes,NI
+NE,NER,Niger,XOF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,NE
+NG,NGA,Nigeria,NGN,AF,Africa,EMEA,Sub-Saharan Africa,Yes,NG
+NU,NIU,Niue,NZD,OC,Australia (Oceania),APAC,Polynesia,Associated with NZ,NZ
+NF,NFK,Norfolk Island,AUD,OC,Australia (Oceania),APAC,Australia and New Zealand,Territory of AU,AU
+MP,MNP,Northern Mariana Islands,USD,OC,Australia (Oceania),APAC,Micronesia,Commonwealth of US,US
+NO,NOR,Norway,NOK,EU,Europe,EMEA,Northern Europe,Yes,NO
+OM,OMN,Oman,OMR,AS,Asia,EMEA,Western Asia,Yes,OM
+PK,PAK,Pakistan,PKR,AS,Asia,APAC,Southern Asia,Yes,PK
+PW,PLW,Palau,USD,OC,Australia (Oceania),APAC,Micronesia,Yes,PW
+PS,PSE,Palestinian Territory,JOD,AS,Asia,EMEA,Western Asia,In contention,Other
+PA,PAN,Panama,PAB,NA,North America,LATAM,Latin America and the Caribbean,Yes,PA
+PG,PNG,Papua New Guinea,PGK,OC,Australia (Oceania),APAC,Melanesia,Yes,PG
+PY,PRY,Paraguay,PYG,SA,South America,LATAM,Latin America and the Caribbean,Yes,PY
+PE,PER,Peru,PEN,SA,South America,LATAM,Latin America and the Caribbean,Yes,PE
+PH,PHL,Philippines,PHP,AS,Asia,APAC,South-eastern Asia,Yes,PH
+PN,PCN,Pitcairn,NZD,OC,Australia (Oceania),APAC,Polynesia,Territory of GB,GB
+PL,POL,Poland,PLN,EU,Europe,EMEA,Eastern Europe,Yes,PL
+PT,PRT,Portugal,EUR,EU,Europe,EMEA,Southern Europe,Yes,PT
+PR,PRI,Puerto Rico,USD,NA,North America,NA,Latin America and the Caribbean,Commonwealth of US,US
+QA,QAT,Qatar,QAR,AS,Asia,EMEA,Western Asia,Yes,QA
+RE,REU,Reunion,EUR,AF,Africa,EMEA,Sub-Saharan Africa,Part of FR,FR
+CH,CHE,Switzerland,CHF,EU,Europe,EMEA,Western Europe,Yes,CH
+SY,SYR,Syrian Arab Republic,SYP,AS,Asia,APAC,Western Asia,Yes,SY
+TW,TWN,Taiwan,TWD,AS,Asia,APAC,Eastern Asia,Part of CN,CN
+TJ,TJK,Tajikistan,TJS,AS,Asia,APAC,Central Asia,Yes,TJ
+TZ,TZA,"Tanzania, United Republic of",TZS,AF,Africa,EMEA,Sub-Saharan Africa,Yes,TZ
+TH,THA,Thailand,THB,AS,Asia,APAC,South-eastern Asia,Yes,TH
+TL,TLS,Timor-Leste,IDR,OC,Australia (Oceania),APAC,South-eastern Asia,Yes,TL
+TG,TGO,Togo,XOF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,TG
+TK,TKL,Tokelau,NZD,OC,Australia (Oceania),APAC,Polynesia,Territory of NZ,NZ
+TO,TON,Tonga,TOP,OC,Australia (Oceania),APAC,Polynesia,Yes,TO
+TT,TTO,Trinidad and Tobago,TTD,NA,North America,NA,Latin America and the Caribbean,Yes,TT
+TN,TUN,Tunisia,TND,AF,Africa,EMEA,Northern Africa,Yes,TN
+TR,TUR,Turkey,TRY,AS,Asia,EMEA,Western Asia,Yes,TR
+TM,TKM,Turkmenistan,TMM,AS,Asia,APAC,Central Asia,Yes,TM
+TC,TCA,Turks and Caicos Islands,USD,NA,North America,NA,Latin America and the Caribbean,Territory of GB,GB
+TV,TUV,Tuvalu,TVD,OC,Australia (Oceania),APAC,Polynesia,Yes,TV
+RO,ROU,Romania,RON,EU,Europe,EMEA,Eastern Europe,Yes,RO
+RU,RUS,Russian Federation,RUB,EU,Europe,APAC,Eastern Europe,Yes,RU
+RW,RWA,Rwanda,RWF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,RW
+BL,BLM,Saint Bartelemey,EUR,NA,North America,NA,Latin America and the Caribbean,Part of FR,FR
+SH,SHN,Saint Helena,SHP,AF,Africa,EMEA,Sub-Saharan Africa,Territory of GB,GB
+KN,KNA,Saint Kitts and Nevis,XCD,NA,North America,NA,Latin America and the Caribbean,Yes,KN
+LC,LCA,Saint Lucia,XCD,NA,North America,NA,Latin America and the Caribbean,Yes,LC
+MF,MAF,Saint Martin,EUR,NA,North America,NA,Latin America and the Caribbean,Part of FR,FR
+PM,SPM,Saint Pierre and Miquelon,EUR,NA,North America,NA,Northern America,Part of FR,FR
+VC,VCT,Saint Vincent and the Grenadines,XCD,NA,North America,NA,Latin America and the Caribbean,Yes,VC
+WS,WSM,Samoa,WST,OC,Australia (Oceania),APAC,Polynesia,Yes,WS
+SM,SMR,San Marino,EUR,EU,Europe,EMEA,Southern Europe,Yes,SM
+ST,STP,Sao Tome and Principe,STD,AF,Africa,EMEA,Sub-Saharan Africa,Yes,ST
+SA,SAU,Saudi Arabia,SAR,AS,Asia,EMEA,Western Asia,Yes,SA
+SN,SEN,Senegal,XOF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,SN
+RS,SRB,Serbia,RSD,EU,Europe,EMEA,Southern Europe,Yes,RS
+SC,SYC,Seychelles,SCR,AF,Africa,EMEA,Sub-Saharan Africa,Yes,SC
+SL,SLE,Sierra Leone,SLL,AF,Africa,EMEA,Sub-Saharan Africa,Yes,SL
+SG,SGP,Singapore,SGD,AS,Asia,APAC,South-eastern Asia,Yes,SG
+SX,SXM,Sint Maarten,ANG,NA,North America,NA,Latin America and the Caribbean,Part of NL,NL
+SK,SVK,Slovakia,EUR,EU,Europe,EMEA,Eastern Europe,Yes,SK
+SI,SVN,Slovenia,EUR,EU,Europe,EMEA,Southern Europe,Yes,SI
+SB,SLB,Solomon Islands,SBD,OC,Australia (Oceania),APAC,Melanesia,Yes,SB
+SO,SOM,Somalia,SOS,AF,Africa,EMEA,Sub-Saharan Africa,Yes,SO
+ZA,ZAF,South Africa,ZAR,AF,Africa,EMEA,Sub-Saharan Africa,Yes,ZA
+GS,SGS,South Georgia and the South Sandwich Islands,GBP,AQ,Antarctica,Other,Latin America and the Caribbean,Territory of GB,GB
+SS,SSD,South Sudan,SSP,AF,Africa,EMEA,Sub-Saharan Africa,Yes,SS
+ES,ESP,Spain,EUR,EU,Europe,EMEA,Southern Europe,Yes,ES
+LK,LKA,Sri Lanka,LKR,AS,Asia,APAC,Southern Asia,Yes,LK
+SD,SDN,Sudan,SDG,AF,Africa,EMEA,Northern Africa,Yes,SD
+SR,SUR,Suriname,SRD,SA,South America,LATAM,Latin America and the Caribbean,Yes,SR
+SJ,SJM,Svalbard and Jan Mayen,NOK,EU,Europe,EMEA,Northern Europe,Territory of NO,NO
+SZ,SWZ,Swaziland,CHF,AF,Africa,EMEA,Sub-Saharan Africa,Yes,SZ
+SE,SWE,Sweden,SEK,EU,Europe,EMEA,Northern Europe,Yes,SE
+UG,UGA,Uganda,UGX,AF,Africa,EMEA,Sub-Saharan Africa,Yes,UG
+UA,UKR,Ukraine,UAH,EU,Europe,EMEA,Eastern Europe,Yes,UA
+AE,ARE,United Arab Emirates,AED,AS,Asia,EMEA,Western Asia,Yes,AE
+GB,GBR,United Kingdom,GBP,EU,Europe,EMEA,Northern Europe,Yes,GB
+US,USA,United States,USD,NA,North America,NA,Northern America,Yes,US
+UM,UMI,United States Minor Outlying Islands,USD,OC,Australia (Oceania),APAC,Micronesia,Territories of US,US
+UY,URY,Uruguay,UYU,SA,South America,LATAM,Latin America and the Caribbean,Yes,UY
+UZ,UZB,Uzbekistan,UZS,AS,Asia,APAC,Central Asia,Yes,UZ
+VU,VUT,Vanuatu,VUV,OC,Australia (Oceania),APAC,Melanesia,Yes,VU
+VE,VEN,Venezuela,VEF,SA,South America,LATAM,Latin America and the Caribbean,Yes,VE
+VN,VNM,Vietnam,VND,AS,Asia,APAC,South-eastern Asia,Yes,VN
+VG,VGB,"Virgin Islands, British",USD,NA,North America,NA,Latin America and the Caribbean,Territory of GB,GB
+VI,VIR,"Virgin Islands, U.S.",USD,NA,North America,NA,Latin America and the Caribbean,Territory of US,US
+WF,WLF,Wallis and Futuna,XPF,OC,Australia (Oceania),APAC,Polynesia,Territory of FR,FR
+EH,ESH,Western Sahara,MAD,AF,Africa,EMEA,Northern Africa,In contention,Other
+YE,YEM,Yemen,YER,AS,Asia,EMEA,Western Asia,Yes,YE
+ZM,ZMB,Zambia,ZMW,AF,Africa,EMEA,Sub-Saharan Africa,Yes,ZM
+ZW,ZWE,Zimbabwe,ZWD,AF,Africa,EMEA,Sub-Saharan Africa,Yes,ZW
