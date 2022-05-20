@@ -8,7 +8,7 @@ and then transform it with dbt.
 dbt Concepts:
 - Sources
     - These are references to data sources loaded by your EL process
-    - Defined inn source.yml files (inside models/ subfolders)
+    - Defined in source.yml files (inside models/ subfolders)
 - Data
     - These are CSV files that define a mostly static dataset
     - These files live in the data/ folder
