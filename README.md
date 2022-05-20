@@ -32,8 +32,15 @@ company: #this needs to match your profile in your project.yml
       dataset: dbt_rachel #this will be where your locally ran models will show up
       threads: 4
 ```
-Get your credentials from (Who should they get credentials from?)
 The default place to put this file is in `~/.dbt/profiles.yml`
+
+Run the following commands in terminal
+1. `vi ~/.dbt/profiles.yml`
+2. `i`
+3. Paste your profile.yml from above
+4. `esc`
+5. `:wq`
+6. `enter`
 
 Set the DBT_PROFILE_PATH env var
 ```sh
