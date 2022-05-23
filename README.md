@@ -42,14 +42,14 @@ https://www.googleapis.com/auth/iam.test
 
 ### Create your profiles.yml
 ```yml
-bigtimedata: #this needs to match your profile in your project.yml
+hotplate: #this needs to match your profile in your project.yml
   target: dev
   outputs:
     dev:
       type: bigquery
       method: oauth
-      project: big-time-data-project #bigquery project name
-      dataset: dbt_rachel #this will be where your locally ran models will show up
+      project: hotplate #bigquery project name
+      dataset: dbt_ben #this will be where your locally ran models will show up
       threads: 4
 ```
 The default place to put this file is in `~/.dbt/profiles.yml`
