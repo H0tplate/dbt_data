@@ -29,8 +29,8 @@ Run `mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master |
 Run the following commands in terminal
 1. `brew update`
 2. `brew install git`
-3. `brew tap dbt-labs/dbt`
-4. `brew install dbt-bigquery`
+3. `brew tap dbt-labs/dbt` ~ 2 mins
+4. `brew install dbt-bigquery` ~ 10 mins
 5. `brew install --cask google-cloud-sdk`
 6. 
 ```sh
