@@ -30,8 +30,8 @@ Run the following commands in terminal
 1. `brew update`
 2. `brew install git`
 3. `brew tap dbt-labs/dbt` ~ 2 mins
-4. `brew install dbt-bigquery` ~ 10 mins
-5. `brew install --cask google-cloud-sdk`
+4. `brew install dbt-bigquery` ~ 10-15 mins
+5. `brew install --cask google-cloud-sdk` ~ 5-10 mins
 6. 
 ```sh
 gcloud auth application-default login \
