@@ -6,4 +6,13 @@ sources:
 
     tables:
       - name: users
+      - name: pages
       - name: order_completed
+      - name: product_added
+      - name: product_list_viewed
+      - name: get_started_clicked
+      - name: demo_times_viewed
+      - name: demo_time_selected
+      - name: demo_scheduled
+      - name: hotplate_footer_clicked
+
