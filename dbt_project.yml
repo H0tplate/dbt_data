@@ -1,16 +1,15 @@
-
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'bigtimedata_analytics'
-version: '2.0.0'
+name: "hotplate_analytics"
+version: "2.0.0"
 config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
-profile: 'bigtimedata'
+profile: "hotplate"
 
 vars:
-    'dbt_date:time_zone': 'UTC'
+  "dbt_date:time_zone": "UTC"
 
 # These configurations specify where dbt should look for different types of files.
 # The `model-paths` config, for example, states that models in this project can be
@@ -22,11 +21,10 @@ data-paths: ["data"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
-target-path: "target"  # directory which will store compiled SQL files
-clean-targets:         # directories to be removed by `dbt clean`
-    - "target"
-    - "dbt_modules"
-
+target-path: "target" # directory which will store compiled SQL files
+clean-targets: # directories to be removed by `dbt clean`
+  - "target"
+  - "dbt_modules"
 
 # Configuring models
 # Full documentation: https://docs.getdbt.com/docs/configuring-models
@@ -36,19 +34,19 @@ clean-targets:         # directories to be removed by `dbt clean`
 # using the `{{ config(...) }}` macro.
 
 models:
-  bigtimedata_analytics:
-      core_bigtimedata:
-        +schema: core_bigtimedata
-        +materialized: table
-        tags: ["hourly"]
-      utils:
-        +schema: utils
+  hotplate_analytics:
+    core_hotplate:
+      +schema: core_hotplate
+      +materialized: table
+      tags: ["hourly"]
+    utils:
+      +schema: utils
 
 seeds:
   enabled: true
   schema: staging
   quote_columns: False
 
-  bigtimedata_analytics:
+  hotplate_analytics:
     utils:
       schema: utils
