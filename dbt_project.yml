@@ -35,8 +35,8 @@ clean-targets: # directories to be removed by `dbt clean`
 
 models:
   hotplate_analytics:
-    core_hotplate:
-      +schema: core_hotplate
+    hotplate_truth:
+      +schema: hotplate_truth
       +materialized: table
       tags: ["hourly"]
     utils:
