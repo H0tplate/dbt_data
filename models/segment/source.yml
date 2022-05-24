@@ -1,8 +1,8 @@
 version: 2
 
 sources:
-  - name: segment
-    schema: segment
+  - name: segment_web_app
+    schema: hotplate_com
 
-    tables: 
-      - name: users
+    tables:
+      - name: order_completed
