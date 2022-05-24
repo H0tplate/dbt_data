@@ -5,4 +5,5 @@ sources:
     schema: hotplate_com
 
     tables:
+      - name: users
       - name: order_completed
